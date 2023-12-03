@@ -8,6 +8,7 @@ def solution(S):
         ptr_final -= 1
     return ptr_start if ptr_start == ptr_final else -1
 
-Str = "racecar"
-Str = "x"
-print(solution(Str))
+Str_A = "racecar"
+Str_B = "x"
+print("this is Str A:", solution(Str_A))
+print("this is Str B:", solution(Str_B))

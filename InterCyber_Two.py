@@ -33,6 +33,6 @@ B = [-3,-3]
 
 result_A = count_castles(A)
 result_B = count_castles(B)
-print("this is result A:", result_A)
-print("this is result B:", result_B)
+print("this is result of array A:", result_A)
+print("this is result of array B:", result_B)
 
